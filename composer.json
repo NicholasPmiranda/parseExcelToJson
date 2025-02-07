@@ -1,0 +1,16 @@
+{
+    "name": "nicholaspmiranda/laravel-go-excel",
+    "autoload": {
+        "psr-4": {
+            "Nicholaspmiranda\\LaravelGoExcel\\": "src/"
+        }
+    },
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nicholaspmiranda\\LaravelGoExcel\\LaravelGoExcelServiceProvider"
+            ]
+        }
+    }
+}
