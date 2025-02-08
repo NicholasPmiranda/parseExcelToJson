@@ -2,7 +2,6 @@
     "name": "nicholaspmiranda/parse-excel-to-json",
     "description": "Package to parse Excel to JSON in Laravel",
     "type": "library",
-    "version": "1.0.1",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -11,7 +10,6 @@
     },
     "require": {
         "php": "^8.0"
-
     },
     "extra": {
         "laravel": {
