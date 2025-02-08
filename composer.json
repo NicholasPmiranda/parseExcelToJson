@@ -1,5 +1,5 @@
 {
-    "name": "nicholaspmiranda/laravel-go-excel",
+    "name": "nicholaspmiranda/parseExcelToJson",
     "autoload": {
         "psr-4": {
             "Nicholaspmiranda\\LaravelGoExcel\\": "src/"
